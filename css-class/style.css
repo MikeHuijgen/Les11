@@ -1,0 +1,62 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color: darkred;
+}
+
+h2{
+    color: darkred;
+    text-align: left;
+}
+
+p{
+    color: black;
+}
+
+.cheat{
+    position: absolute;
+    background-color: lightcoral;
+    color: black;
+    border: 5px solid blueviolet;
+    padding: 60px;
+    height: 200px;
+    width: 200px;
+}
+
+.cheat2{
+    position: absolute;
+    background-color: lightcoral;
+    color: black;
+    border: 5px solid blueviolet;
+    padding: 60px;
+    height: 200px;
+    width: 200px;
+    left: 380px;
+}
+
+.cheat3{
+    position: absolute;
+    background-color: lightcoral;
+    color: black;
+    border: 5px solid blueviolet;
+    padding: 60px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+}
+
+.cheat4{
+    position: absolute;
+    background-color: lightcoral;
+    color: black;
+    border: 5px solid blueviolet;
+    padding: 60px;
+    height: 200px;
+    width: 200px;
+    left: 1120px;
+}
+
+
+
